@@ -1,3 +1,5 @@
+# Faster R-CNN from Scratch: Two-Stage Object Detection
+
 This repository implements **Faster R-CNN**, a two-stage anchor-based object detector with **Region Proposal Networks (RPN)** and **Fast R-CNN** for precise object detection.
 
 ## Dataset
